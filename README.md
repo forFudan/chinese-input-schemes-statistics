@@ -48,10 +48,12 @@
 
 ## 2. 碼表來源
 
-[倉頡五代]<https://github.com/rime/rime-cangjie>
-[山人全息]<https://github.com/ywxt/rime-sunman>
-[虎碼]<http://huma.ysepan.com/>
-[新世纪五笔]<https://github.com/byujiang/wubi06_rime>
-[藍寶石]<https://github.com/kktt007/rime-fcitx-rime>
-[092五筆]<https://github.com/lvxingjia/092r>
-[小鶴]<https://github.com/cubercsl/rime-flypy>
+碼表數據基於：
+
+- [倉頡五代]<https://github.com/rime/rime-cangjie>
+- [山人全息]<https://github.com/ywxt/rime-sunman>
+- [虎碼]<http://huma.ysepan.com/>
+- [新世纪五笔]<https://github.com/byujiang/wubi06_rime>
+- [藍寶石]<https://github.com/kktt007/rime-fcitx-rime>
+- [092五筆]<https://github.com/lvxingjia/092r>
+- [小鶴]<https://github.com/cubercsl/rime-flypy>
